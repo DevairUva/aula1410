@@ -1,0 +1,1 @@
+document.write("<h1><span style='color: red;'>Vem que vem!</h1></span>");
